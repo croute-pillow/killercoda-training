@@ -1,0 +1,6 @@
+{
+  "title": "kubernetes 2 Node Test",
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
