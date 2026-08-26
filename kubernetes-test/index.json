@@ -7,7 +7,7 @@
     "host01": [
       {
         "file": "before.txt",
-        "target": "/root/training"
+        "target": "/tmp"
       }
     ]
   }
