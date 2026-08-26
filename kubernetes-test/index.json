@@ -1,5 +1,5 @@
 {
-  "title": "kubernetes 2 Node Training Test",
+  "title": "kubernetes 2 Node Training Test Hello",
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
   },
