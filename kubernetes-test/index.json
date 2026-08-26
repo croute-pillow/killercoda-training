@@ -1,6 +1,19 @@
 {
   "title": "kubernetes 2 Node Training Test Hello",
   "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "ファイルを確認する",
+        "text": "step1/text.md"
+      },
+      {
+        "title": "ファイルの差分を確認する",
+        "text": "step2/text.md"
+      }
+    ],
     "assets": {
       "host01": [
         {
