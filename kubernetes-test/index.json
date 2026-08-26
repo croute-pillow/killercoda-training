@@ -1,14 +1,17 @@
 {
   "title": "kubernetes 2 Node Training Test Hello",
+  "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "before.txt",
+          "target": "/tmp"
+        }
+      ]
+    }
+  },
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
   },
-  "assets": {
-    "host01": [
-      {
-        "file": "before.txt",
-        "target": "/tmp"
-      }
-    ]
-  }
+  
 }
