@@ -1,0 +1,28 @@
+{
+    "title": "Docker Training",
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Docker環境を確認する",
+                "text": "step1/text.md"
+            },
+            {
+                "title": "コンテナを起動する",
+                "text": "step2/text.md"
+            },
+            {
+                "title": "コンテナを停止・削除する",
+                "text": "step4/text.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
