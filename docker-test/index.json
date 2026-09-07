@@ -14,6 +14,10 @@
                 "text": "step2/text.md"
             },
             {
+                "title": "コンテナの中を確認する",
+                "text": "step3/text.md"
+            },
+            {
                 "title": "コンテナを停止・削除する",
                 "text": "step4/text.md"
             }
